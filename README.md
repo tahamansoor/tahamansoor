@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tahamansoor
 - 👀 I’m interested in  python, web devlopment 
 - 🌱 I’m currently learning web development
-- 📫 How to reach me twitter: https://twitter.com/TahaMansoor16
-instagram: https://www.instagram.com/taha_.mansoor/
+- 📫 How to reach me twitter: instagram: https://www.instagram.com/taha_.mansoor/
 
 <!---
 tahamansoor/tahamansoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
