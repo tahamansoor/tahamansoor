@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahamansoor
 - 👀 I’m interested in  python, web devlopment 
-- 🌱 I’m currently learning webdevlopment
+- 🌱 I’m currently learning web development
 - 📫 How to reach me twitter: https://twitter.com/TahaMansoor16
 instagram: https://www.instagram.com/taha_.mansoor/
 
