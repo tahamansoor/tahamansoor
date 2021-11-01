@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahamansoor
 - 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning nestjs.
 - 📫 How to reach me instagram: https://www.instagram.com/taha_.mansoor/
 
 <!---
