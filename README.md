@@ -1,7 +1,7 @@
 - 👋 Hi, I’m tahamansoor
 - 👀 I’m interested in web devlopment
 - 🌱 I’m always learning.
-- skills: nodejs,nestjs,javascript,typecript
+- ✨skills: nodejs,nestjs,javascript,typecript
 
 [1]: https://www.instagram.com/taha_.mansoor/
 [2]: https://twitter.com/tahamansoor16
