@@ -1,5 +1,5 @@
-- 👋 Hi, I’m tahamansoor
-- 👀 I’m interested in web devlopment
+- 👋 Hi, I’m Taha Mansoor
+- 👀 I’m interested in back-end devlopment
 - 🌱 I’m always learning.
 - ✨skills: nodejs,nestjs,javascript,typecript
 
