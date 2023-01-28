@@ -1,10 +1,31 @@
-- 👋 Hi, I’m Taha Mansoor
-- 👀 I’m interested in back-end devlopment
-- 🌱 I’m always learning.
-- ✨skills: nodejs,nestjs,javascript,typecript
+# Welcome to my GitHub Profile
+Hi there!:wave: <br/> My name is Taha Mansoor, and I am a beginner back-end developer with a passion for creating efficient and reliable web applications.
+<br/>
+I have recently completed a back-end development course and have a solid understanding of core technologies such as Node.js, Express, and SQL.
+<br/>
+I am eager to apply my knowledge to real-world projects and am actively seeking small jobs to help me gain experience and build my portfolio.
+## Skills
+- Html
+* Css
++ Javascrpt
+- Node.js
+* Express
+- NestJs
+* SQL
++ Quick Learner
+- Good at working in a team
+* Strong Communication Skills
 
-[1]: https://www.instagram.com/taha_.mansoor/
-[2]: https://twitter.com/tahamansoor16
+## Projects
+<b/>Here are some of the projects I have been working on:</b>
+<br/>
+Project 1:   [blogster](https://github.com/tahamansoor/blogster) (self)
+<br/>
+Project 2:  [UserBasedTaskManagerWithNestjs](https://github.com/tahamansoor/UserBasedTaskManagerWithNestjs) (self)
+## Contact
+If you would like to get in touch with me, you can reach me through my Github profile or via email at thacomc@gmail.com. I am always happy to connect with other developers and discuss new opportunities.
+
+>Thanks for visiting my profile, and I look forward to connecting with you! :blush:
 
 <!---
 tahamansoor/tahamansoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
