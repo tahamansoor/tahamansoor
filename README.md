@@ -23,7 +23,7 @@ Project 1:   [blogster](https://github.com/tahamansoor/blogster) (self)
 <br/>
 Project 2:  [UserBasedTaskManagerWithNestjs](https://github.com/tahamansoor/UserBasedTaskManagerWithNestjs) (self)
 ## Contact
-If you would like to get in touch with me, you can reach me through my Github profile or via email at thacomc@gmail.com. I am always happy to connect with other developers and discuss new opportunities.
+If you would like to get in touch with me, you can reach me through my Github profile or via email at thacomc@gmail.com and here is my [fiverr](https://www.fiverr.com/thacom) profile. I am always happy to connect with other developers and discuss new opportunities.
 
 >Thanks for visiting my profile, and I look forward to connecting with you! :blush:
 
