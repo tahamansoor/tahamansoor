@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile
-Hi there!:wave: <br/> My name is Taha Mansoor, and I am a beginner back-end developer with a passion for creating efficient and reliable web applications.
+Hi there! :wave: <br/> My name is Taha Mansoor, and I am a beginner back-end developer with a passion for creating efficient and reliable web applications.
 <br/>
 I have recently completed a back-end development course and have a solid understanding of core technologies such as Node.js, Express, and SQL.
 <br/>
