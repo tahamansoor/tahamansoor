@@ -31,4 +31,4 @@ If you would like to get in touch with me, you can reach me through my Github pr
 tahamansoor/tahamansoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-actual-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahamansoor&show_icons=true&theme=dark)
