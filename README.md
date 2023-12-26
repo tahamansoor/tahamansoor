@@ -5,16 +5,11 @@ Hi! :wave: <br/> Taha Mansoor Here,
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahamansoor&show_icons=true&theme=dark)
 
 <br/>
-## Projects
-<b/>Here are some of the projects I have been working on:</b>
-<br/>
-Project 1:   [blogster](https://github.com/tahamansoor/blogster) (self)
-<br/>
-Project 2:  [UserBasedTaskManagerWithNestjs](https://github.com/tahamansoor/UserBasedTaskManagerWithNestjs) (self)
-## Contact
-If you would like to get in touch with me, you can reach me through my Github profile or via email at thacomc@gmail.com and here is my [fiverr](https://www.fiverr.com/thacom) profile. I am always happy to connect with other developers and discuss new opportunities.
+<h3/>Contact</h3>
 
->Thanks for visiting my profile, and I look forward to connecting with you! :blush:
+[![Email](https://img.shields.io/badge/Email-thacomc@gmail.com-%231DA1F2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:thacomc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Mansoor-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahamansoor1/)
+[![Twitter](https://img.shields.io/badge/Twitter-@tahamansoor16-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tahamansoor16)
 
 <!---
 tahamansoor/tahamansoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
