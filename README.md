@@ -3,6 +3,7 @@ Hi! :wave: <br/> Taha Mansoor Here,
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahamansoor&show_icons=true&theme=dark)
+<br/>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahamansoor&hide=handlebars&theme=dark)
 
 <br/>
